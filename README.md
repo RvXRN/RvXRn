@@ -1,6 +1,3 @@
-# Nama Lengkap
-
-![Foto Profil](https://avatars.githubusercontent.com/u/112039501?s=400&u=ddeec56339bef464d8754dd6f3f219c46fd652ce&v=4)
 
 ## Tentang Saya
 
