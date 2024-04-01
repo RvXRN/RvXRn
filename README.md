@@ -9,7 +9,7 @@ Saya seorang pelajar yang bersemangat dalam dunia teknologi. Saya suka belajar h
 - JavaScript
 - Python
 
-
+<!--
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RvXRn"/>
-
+-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RvXRn)
