@@ -12,4 +12,4 @@ Saya seorang pelajar yang bersemangat dalam dunia teknologi. Saya suka belajar h
 <!--
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RvXRn"/>
 -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RvXRn&theme=dark&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=RvXRn&theme=dark&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
