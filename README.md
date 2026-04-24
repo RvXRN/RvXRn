@@ -26,7 +26,6 @@
 - 🎧 Currently vibing to: **80s/90s Indonesian Pop** (Deddy Dores energy).
 - 🎮 Relaxation: Forklift sounds & logistics simulators on Roblox.
 - 🧘 Philosophy: Seeking spiritual calm while debugging complex system internals.
-- 💬 Ask me about: **PHP internal optimizations, ThinkPad repasting, or why First Principles matter.**
 
 ---
 
