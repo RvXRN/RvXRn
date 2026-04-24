@@ -1,4 +1,4 @@
-# Hi, I'm Rizky Anas Mustakim 👋 
+# Hi, I'm Rizki Anas Mustakim 👋 
 ### Full-Stack Developer | Junior Developer
 
 "First Principles Thinking is the way. Understanding the root is better than just prompt engineering."
