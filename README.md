@@ -13,12 +13,12 @@
 - **Backend & Package Manager:** ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![Composer](https://img.shields.io/badge/composer-%23885630.svg?style=for-the-badge&logo=composer&logoColor=white)
 ---
 
-### 📊 GitHub Stats
+<--### 📊 GitHub Stats-->
 
-<p align="center">
+ <!--<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RvXRn&show_icons=true&theme=tokyonight" alt="Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RvXRn&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
+</p>-->
 
 ---
 
